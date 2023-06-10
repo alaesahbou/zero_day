@@ -1,1 +1,1 @@
-The command 'uname' without any option prints the name of the operating system, which is usually Linux.
+The command 'uname' without any option prints the name of the operating system, which is usually Linux
